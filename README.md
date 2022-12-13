@@ -1,1 +1,2 @@
 # self-introduce
+MIT License
